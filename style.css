@@ -151,3 +151,30 @@ footer {
         font-size: 1.5em;
     }
 }
+
+@media (max-width: 480px) {
+    header {
+        padding: 1em 0;
+    }
+
+    nav ul li a {
+        padding: 0.5em 1em;
+        font-size: 0.8em;
+    }
+
+    main {
+        padding: 1em;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    footer {
+        padding: 1em 0;
+    }
+}
